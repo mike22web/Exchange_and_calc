@@ -18,7 +18,7 @@ Main menu (all_in_one.py ) – we launch it immediately, from where by clicking 
 Currency Converter:
 To run, you need to install the PyQt5 and Pandas libraries
 
-1. The current course is taken from the myfin website.by using the pandas library and the read_html() method, which returns information from the requested page in the form of a list of tables.
+1. The current course is taken from the website myfin.by using the pandas library and the read_html() method, which returns information from the requested page in the form of a list of tables.
 
 2. “Enter the amount” - enter the amount to be exchanged from the keyboard, press Enter
 
